@@ -34,5 +34,7 @@ Training progress and generated images are visualized to assess model performanc
 Dependencies
 
 TensorFlow 2.x
+
 Matplotlib
+
 NumPy
